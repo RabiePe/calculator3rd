@@ -1,7 +1,12 @@
 {
   "name": "calculator-3rd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
+  "homepage": "https://github.com/RabiePe/calculator3rd/blob/master",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/RabiePe/calculator3rd/tree/master.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
