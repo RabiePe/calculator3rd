@@ -1,6 +1,6 @@
 {
   "name": "calculator-3rd",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "",
   "main": "index.js",
   "dependencies": {
@@ -61,13 +61,11 @@
     "which": "^2.0.2",
     "yallist": "^4.0.0"
   },
-
   "homepage": "https://github.com/landmineak/callingmyname2/tree/master",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/landmineak/callingmyname2"
+    "type": "git",
+    "url": "https://github.com/landmineak/callingmyname2"
   },
-  
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
